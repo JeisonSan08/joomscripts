@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+<fields name="params">	
+	<fieldset name="component" label="JoomScripts" description="">	
+		<field name="file_name" type="text" default="" label="File name" description="" />				
+	</fieldset>
+</fields>	
+</metadata>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="5.0" method="upgrade">
+    <name>com_joomscripts</name>
+    <author>Jeison Ferreira / Iacopo Guarneri</author>
+    <creationDate>29/03/2024</creationDate>
+    <license>GNU/GPL</license>
+    <authorEmail>jeisonsan@gmail.com / iacopo.guarneri@gmail.com</authorEmail>
+    <authorUrl>https://blog.websagencia.com.br</authorUrl>
+    <version>1.1</version>
+    <description>Componente atualizado para Joomla 5 com base no trabalho original de Iacopo Guarneri. Referência: http://www.iacopo-guarneri.me/</description>
+
+    <files folder="site">
+        <folder>views</folder>
+        <filename>index.html</filename>
+        <filename>joomscripts.php</filename>
+    </files>
+
+    <administration>
+        <menu>JoomScripts</menu>
+
+        <files folder="administrator">
+            <filename>joomscripts.php</filename>
+            <filename>insert.php</filename>
+            <filename>index.html</filename>
+            <filename>jquery.js</filename>
+            <folder>source</folder>
+        </files>
+    </administration>
+</extension>

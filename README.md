@@ -6,7 +6,7 @@
 
 JoomScripts é um componente leve e funcional que permite rodar **scripts PHP personalizados diretamente pelo backend do Joomla**. Ideal para desenvolvedores que precisam testar funções, automatizar rotinas internas, gerar relatórios, entre outras tarefas técnicas, sem criar um plugin ou módulo completo.
 
-Esta versão é baseada no projeto original **JCode**, criado por [Iacopo Guarneri](http://blog.websagencia.com.br), e adaptada para o Joomla 5 por **Jeison Ferreira**.
+Esta versão é baseada no projeto original **JCode**, criado por [Iacopo Guarneri](http://www.iacopo-guarneri.me/)), e adaptada para o Joomla 5 por **Jeison Ferreira**.
 
 ---
 

@@ -61,7 +61,7 @@ administrator/components/com_joomscripts/source/relatorio.php
 ## 📃 Licença
 
 GNU/GPL v2  
-Projeto baseado no original de [websagencia.com.br](http://blog.websagencia.com.br)
+Projeto baseado no original de [[http://www.iacopo-guarneri.me](http://www.iacopo-guarneri.me)
 
 ---
 
